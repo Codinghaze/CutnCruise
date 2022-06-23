@@ -7,6 +7,6 @@
 </template>
 <style> 
 .HeroCont{
-    @apply border border-black w-full overflow-hidden  h-96;
+    @apply w-full overflow-hidden  h-96;
 }
 </style>
