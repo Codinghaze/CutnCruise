@@ -14,8 +14,8 @@ export default {
       }
       return false;
     },
-    CheckPhoneLength() {
-      if (this.phone.length == 10) {
+    CheckPhoneLengthIsLongEnough() {
+      if (this.phone.length >= 10) {
         return true;
       }
       return false;
@@ -28,7 +28,7 @@ export default {
     },
     async SubmitBtn() {
       try {
-        if (this.CheckPhoneLength() == false) {
+        if (this.CheckPhoneLengthIsLongEnough() == false) {
           alert("Phone Number too short");
         } else if (this.CheckEmail() == false) {
           alert("Bad Email");
