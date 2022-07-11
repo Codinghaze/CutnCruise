@@ -9,21 +9,21 @@ import ContactUs from "./components/ContactUs.vue";
 <template>
   <div class="PageCont">
     <div class="AppCont">
+      <Header />
       <div
-        class="w-full h-18 text-3xl flex flex-row items-center justify-center"
+        class="w-full h-16 bg-black text-white text-3xl flex flex-row items-center justify-center"
       >
         Call Jacob at
-        <div class="underline ml-4 text-lime-900">920-944-5693</div>
+        <div class="underline ml-4">920-944-5693</div>
       </div>
-      <Header />
       <Hero></Hero>
       <div
-        class="w-full bg-stone-600 text-black flex flex-col items-center justify-center h-96 text-6xl"
+        class="w-full bg-white text-black flex flex-col items-center justify-center h-96 text-6xl"
       >
         <div class="max-w-3xl h-64 flex flex-col items-start justify-start">
           Offering the most reliable lawn care!
           <div
-            class="w-full flex flex-row items-center justify-start text-3xl mt-4 text-white"
+            class="w-full flex flex-row items-center justify-start text-3xl mt-4 text-stone-600"
           >
             Our professinal landscaping experts are here to work!
             <br />

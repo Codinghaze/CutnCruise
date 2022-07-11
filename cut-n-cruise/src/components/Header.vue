@@ -14,7 +14,7 @@
   font-family: "din-condensed", sans-serif;
   font-style: normal;
   font-weight: 300;
-  @apply w-full flex flex-row items-center font-bold justify-start text-black bg-stone-600  h-48 px-5 py-2;
+  @apply w-full flex flex-row items-center font-bold justify-start text-black bg-white  h-48 px-5 py-2;
 }
 
 .linkBoxes {
