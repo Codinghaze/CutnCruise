@@ -11,10 +11,10 @@ import BottomCont from "./BottomCont.vue";
       <BottomCont>
         <template v-slot:header>Landscaping Care </template>
         <template v-slot:content>
-          With trained horticulture specialists we guarentee our landscaping
+          With trained horticulture, specialists we guarentee our landscaping
           layout system will transform your yard into something to be proud of!
           <br />
-          We only plant wisconsin's finest!
+          We only plant Wisconsin's finest!
         </template></BottomCont
       >
     </div>
@@ -26,9 +26,9 @@ import BottomCont from "./BottomCont.vue";
       <template v-slot:content>
         We will ensure that your yard is in peak condition!
         <br />
-        We will come out to you on an individualized scheudle that makes sense.
+        We will come out to you on an individualized schedule that makes sense.
         <br />
-        these schedles allow us to provide your land with the best care!
+        These schedules allow us to provide your land with the best care!
       </template>
     </BottomCont>
     <div class="ImgBox">
