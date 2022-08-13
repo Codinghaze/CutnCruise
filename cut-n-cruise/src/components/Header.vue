@@ -10,9 +10,9 @@ export default {
     <div class="titlebox">
       <img class="lg:w-48 h-48 mr-5 mt-2" src="../assets/Logo.png" />
     </div>
-    <div class="linkBoxes" @click="scrollTo">Home</div>
+    <!-- <div class="linkBoxes" @click="scrollTo">Home</div>
     <div class="linkBoxes">About</div>
-    <div class="linkBoxes">Services</div>
+    <div class="linkBoxes">Services</div> -->
   </div>
 </template>
 <style>

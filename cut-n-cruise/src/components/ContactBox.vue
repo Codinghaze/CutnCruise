@@ -24,9 +24,8 @@ import ContactUs from "./ContactUs.vue";
           920-944-5693
           <br />
           <br />
-          Or better yet use the form
-          <br />
-          and get a quote sent directly to you ASAP!
+          Or use the form and get a quote <br />
+          sent directly to you ASAP!
         </div>
       </div>
 

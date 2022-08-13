@@ -11,8 +11,8 @@ import BottomCont from "./BottomCont.vue";
       <BottomCont>
         <template v-slot:header>Landscaping Care </template>
         <template v-slot:content>
-          With trained horticulture, specialists we guarentee our landscaping
-          layout system will transform your yard into something to be proud of!
+          We guarantee our landscaping layout system will transform your yard
+          into something to be proud of.
           <br />
           We only plant Wisconsin's finest!
         </template></BottomCont
@@ -24,11 +24,10 @@ import BottomCont from "./BottomCont.vue";
     <BottomCont>
       <template v-slot:header>Scheduled Care </template>
       <template v-slot:content>
-        We will ensure that your yard is in peak condition!
+        We will ensure that your yard is in peak condition, with an
+        individualized schedule that works for you.
         <br />
-        We will come out to you on an individualized schedule that makes sense.
-        <br />
-        These schedules allow us to provide your land with the best care!
+        These schedules allow us to provide your yard with the best care.
       </template>
     </BottomCont>
     <div class="ImgBox">
@@ -46,8 +45,8 @@ import BottomCont from "./BottomCont.vue";
         <template v-slot:content>
           Whether you are looking for the typical Cut N Cruise lawn touchup
           <br />
-          or someone to prep your plants for Winter, We are always willing to go
-          the extra mile to ensure your yard is looking flawless!
+          or someone to prep your plants for Winter, we are always willing to go
+          the extra mile to ensure your yard is looking flawless.
         </template></BottomCont
       >
     </div>
